@@ -7,6 +7,7 @@ print(Name.swapcase())
 print(Name.isupper())
 print(Name.title())
 print(len(Name))
+print(Name.isdigit())
 print(Name.isalpha())
 
 
