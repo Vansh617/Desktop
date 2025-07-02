@@ -1,6 +1,4 @@
 # Day 3
-
-
 Name="iamneeraj"
 print(Name.islower())
 print(Name.swapcase())
