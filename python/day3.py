@@ -14,3 +14,4 @@ print(Name.strip()) #last and staring space cut kr deta hai
 s="---he--lo-----"
 print(s.rstrip('-'))
 print(s.lstrip('-'))
+print(s.strip('-'))
